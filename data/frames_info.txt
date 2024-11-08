@@ -1,0 +1,148 @@
+File size of ../data/ethers04.bin is 1891 byte
+
+Frame №: 1
+MAC address of the recipient: 00:02:16:09:FA:40
+MAC address of the sender: 00:90:27:A1:36:D0
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.11
+IP address of the recipient: 83.222.15.90
+Package Size: 54 byte
+
+Frame №: 2
+MAC address of the recipient: 00:02:16:09:FA:40
+MAC address of the sender: 00:90:27:A1:36:D0
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.11
+IP address of the recipient: 83.222.15.90
+Package Size: 54 byte
+
+Frame №: 3
+MAC address of the recipient: 00:02:16:09:FA:40
+MAC address of the sender: 00:90:27:A1:36:D0
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.11
+IP address of the recipient: 83.222.15.90
+Package Size: 54 byte
+
+Frame №: 4
+MAC address of the recipient: 00:16:17:A8:C2:4C
+MAC address of the sender: 00:02:16:09:FA:40
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 217.22.165.203
+IP address of the recipient: 195.62.2.49
+Package Size: 54 byte
+
+Frame №: 5
+MAC address of the recipient: 00:16:B6:B8:2B:1A
+MAC address of the sender: 00:02:16:09:FA:40
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 217.22.165.203
+IP address of the recipient: 195.62.2.6
+Package Size: 54 byte
+
+Frame №: 6
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:02:16:09:FA:40
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 81.181.78.206
+IP address of the recipient: 195.62.2.11
+Package Size: 82 byte
+
+Frame №: 7
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 54 byte
+
+Frame №: 8
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 54 byte
+
+Frame №: 9
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 54 byte
+
+Frame №: 10
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 54 byte
+
+Frame №: 11
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 54 byte
+
+Frame №: 12
+MAC address of the recipient: 00:02:16:09:FA:40
+MAC address of the sender: 00:90:27:A1:36:D0
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.11
+IP address of the recipient: 81.181.78.206
+Package Size: 66 byte
+
+Frame №: 13
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:02:16:09:FA:40
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 83.222.15.90
+IP address of the recipient: 195.62.2.11
+Package Size: 92 byte
+
+Frame №: 14
+MAC address of the recipient: 00:16:17:A8:C2:4C
+MAC address of the sender: 00:90:27:A1:36:D0
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.11
+IP address of the recipient: 195.62.2.49
+Package Size: 92 byte
+
+Frame №: 15
+MAC address of the recipient: 00:90:27:A1:36:D0
+MAC address of the sender: 00:16:17:A8:C2:4C
+Type of frame: DIX (Ethernet II)
+Protocol: IPv4
+IP address of the sender: 195.62.2.49
+IP address of the recipient: 195.62.2.11
+Package Size: 1019 byte
+
+Total frames: 15
+
+Type of frames:
+ARP: 0
+DIX15
+DIX: 0
+IPv415
+IPv4: 0
+LLC: 0
+RAW: 0
+SNAP: 0
